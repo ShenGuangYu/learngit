@@ -1,2 +1,4 @@
 alsdkjnalsnd
 understand how stage works
+i don’t understand
+git can track change
